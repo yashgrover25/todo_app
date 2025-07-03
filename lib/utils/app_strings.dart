@@ -1,0 +1,12 @@
+const String kHeading = 'Heading';
+const String kNote = 'Note';
+const String kYourTodos = 'Your Todos';
+const String kCancel = 'Cancel';
+const String kDelete = 'Delete';
+const String kNoteDeleted = 'Note deleted';
+const String kTodoDetails = 'Todo Details';
+const String kClose = 'Close';
+const String kNoteUpdated = 'Note Updated';
+const String kNoteAdded = 'Note Added';
+const String kSave = 'Save';
+const String kYourNote = 'Your Note';
